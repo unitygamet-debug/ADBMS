@@ -1,0 +1,25 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "6a4c9fbe-39de-4f00-9396-e29df5f0ed3c",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1794746756889"
+        }
+      },
+      "favorite": {
+        "name": "ADBMS",
+        "color": "color1"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}
